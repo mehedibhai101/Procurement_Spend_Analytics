@@ -1,0 +1,151 @@
+vendor_id,vendor_name,vendor_type,location,currency,payment_terms
+1,"Smith, Bryan and Evans Solutions",Importer,Israel,USD,LC at Sight
+2,Huynh-Nelson Ltd,Corporate Supplier,Gazipur,BDT,Cheque upon Delivery
+3,Martin-Martinez Intl,Manufacturer,Narayanganj,BDT,Net 60
+4,Green-Burton Ltd,Manufacturer,Dhaka,BDT,Cheque upon Delivery
+5,"Tran, Kelly and Rubio Traders",Manufacturer,Chittagong,BDT,Cheque upon Delivery
+6,"Irwin, Jenkins and Gordon Ltd",Importer,Bermuda,USD,LC at Sight
+7,Harris Inc Traders,Corporate Supplier,Narayanganj,BDT,Net 30
+8,Hood LLC Traders,Service Agency,Chittagong,BDT,Net 60
+9,Ellis Inc Ltd,Manufacturer,Chittagong,BDT,Cheque upon Delivery
+10,"Garner, Smith and Bentley Solutions",Importer,Malawi,CNY,LC at Sight
+11,Townsend and Sons Intl,Manufacturer,Narayanganj,BDT,Net 30
+12,Delgado Inc Traders,Importer,France,USD,LC at Sight
+13,"Lane, Doyle and Hall Intl",Importer,Turks and Caicos Islands,USD,LC at Sight
+14,"Fletcher, Summers and Roman Intl",Importer,Malta,USD,LC at Sight
+15,Wilson Group Ltd,Manufacturer,Dhaka,BDT,Cheque upon Delivery
+16,Mclaughlin PLC Solutions,Corporate Supplier,Chittagong,BDT,Net 30
+17,Scott Group Ltd,Importer,Paraguay,USD,LC at Sight
+18,"Moon, Anderson and Petty Ltd",Manufacturer,Narayanganj,BDT,Net 60
+19,Hernandez and Sons Traders,Importer,Gabon,USD,LC at Sight
+20,Ryan-Moore Intl,Manufacturer,Chittagong,BDT,Net 60
+21,Smith-Brown Traders,Manufacturer,Chittagong,BDT,Cheque upon Delivery
+22,Miller-Vang Ltd,Manufacturer,Dhaka,BDT,Cheque upon Delivery
+23,Mccormick Ltd Ltd,Service Agency,Dhaka,BDT,Net 60
+24,Lewis-Hunt Intl,Service Agency,Narayanganj,BDT,Net 60
+25,Castillo Inc Solutions,Service Agency,Dhaka,BDT,Net 60
+26,Sims LLC Ltd,Manufacturer,Chittagong,BDT,Net 60
+27,"Church, Livingston and Pierce Intl",Manufacturer,Narayanganj,BDT,Cheque upon Delivery
+28,Mack-Hale Intl,Wholesaler,Chittagong,BDT,Cheque upon Delivery
+29,"Hernandez, Simpson and Stafford Ltd",Manufacturer,Dhaka,BDT,Net 60
+30,Hall-Martin Traders,Service Agency,Dhaka,BDT,Cheque upon Delivery
+31,Hernandez-Davis Ltd,Service Agency,Dhaka,BDT,Net 60
+32,Thomas Ltd Solutions,Importer,Qatar,USD,LC at Sight
+33,Conley Inc Solutions,Importer,Lithuania,USD,LC at Sight
+34,Wagner-Sullivan Traders,Manufacturer,Chittagong,BDT,Net 30
+35,Butler-Sanchez Ltd,Wholesaler,Chittagong,BDT,Net 60
+36,Johnson LLC Solutions,Importer,Turkey,USD,LC at Sight
+37,Foster and Sons Traders,Manufacturer,Gazipur,BDT,Net 60
+38,"Frazier, Holmes and Wright Intl",Manufacturer,Chittagong,BDT,Net 60
+39,Palmer-Butler Traders,Manufacturer,Chittagong,BDT,Net 30
+40,Schneider Ltd Traders,Importer,British Indian Ocean Territory (Chagos Archipelago),USD,LC at Sight
+41,"Howell, Harris and Taylor Intl",Importer,Congo,CNY,LC at Sight
+42,Rivera LLC Solutions,Importer,Uganda,USD,LC at Sight
+43,Medina Ltd Intl,Service Agency,Dhaka,BDT,Cheque upon Delivery
+44,"Snow, Brown and Waters Traders",Wholesaler,Narayanganj,BDT,Cheque upon Delivery
+45,Cox PLC Intl,Manufacturer,Gazipur,BDT,Cheque upon Delivery
+46,"Rodriguez, Blake and Moore Traders",Importer,Mauritania,USD,LC at Sight
+47,"Walters, Hill and Wallace Traders",Importer,Turkmenistan,CNY,LC at Sight
+48,Parker-Bishop Solutions,Importer,Heard Island and McDonald Islands,USD,LC at Sight
+49,Mclaughlin-Castillo Traders,Manufacturer,Narayanganj,BDT,Cheque upon Delivery
+50,Johnson-Reed Traders,Importer,Estonia,USD,LC at Sight
+51,Lowe Ltd Intl,Manufacturer,Dhaka,BDT,Net 60
+52,Johnson PLC Traders,Importer,Spain,USD,LC at Sight
+53,Roy Group Intl,Corporate Supplier,Gazipur,BDT,Cheque upon Delivery
+54,Bailey-Valenzuela Ltd,Importer,Cocos (Keeling) Islands,CNY,LC at Sight
+55,"Stewart, Price and Jensen Ltd",Corporate Supplier,Chittagong,BDT,Net 30
+56,Mueller-Williams Traders,Manufacturer,Chittagong,BDT,Net 30
+57,Martin and Sons Intl,Manufacturer,Gazipur,BDT,Cheque upon Delivery
+58,Hall-Coleman Ltd,Manufacturer,Narayanganj,BDT,Net 60
+59,Hernandez PLC Traders,Wholesaler,Narayanganj,BDT,Cheque upon Delivery
+60,Myers-Delacruz Solutions,Importer,Antigua and Barbuda,CNY,LC at Sight
+61,Washington PLC Ltd,Importer,Dominican Republic,USD,LC at Sight
+62,Hudson-Howard Solutions,Importer,Costa Rica,USD,LC at Sight
+63,"Mitchell, Chase and Davis Ltd",Manufacturer,Chittagong,BDT,Cheque upon Delivery
+64,"Clark, Gordon and Ali Traders",Service Agency,Chittagong,BDT,Cheque upon Delivery
+65,"Smith, Meyer and Chapman Solutions",Wholesaler,Dhaka,BDT,Net 60
+66,Chapman-Harrington Ltd,Manufacturer,Gazipur,BDT,Net 30
+67,Ellis Group Traders,Corporate Supplier,Gazipur,BDT,Net 30
+68,Watson Inc Intl,Manufacturer,Dhaka,BDT,Net 30
+69,Gomez-Velasquez Intl,Service Agency,Chittagong,BDT,Net 60
+70,"Wheeler, Flores and Kim Solutions",Wholesaler,Gazipur,BDT,Cheque upon Delivery
+71,Price-Evans Ltd,Importer,Ghana,CNY,LC at Sight
+72,Cunningham-Brown Solutions,Wholesaler,Narayanganj,BDT,Cheque upon Delivery
+73,Farley-Davis Ltd,Importer,Bouvet Island (Bouvetoya),CNY,LC at Sight
+74,Johnson Inc Traders,Wholesaler,Chittagong,BDT,Net 60
+75,Conley-Warren Solutions,Wholesaler,Dhaka,BDT,Net 60
+76,Porter-Brown Ltd,Wholesaler,Narayanganj,BDT,Net 30
+77,Leach LLC Traders,Manufacturer,Narayanganj,BDT,Net 30
+78,"Mueller, Reyes and Daniels Intl",Manufacturer,Dhaka,BDT,Net 60
+79,"Ewing, Bradshaw and Mccullough Intl",Manufacturer,Chittagong,BDT,Net 60
+80,"Andrews, Arnold and Lewis Traders",Wholesaler,Gazipur,BDT,Net 60
+81,"Oconnor, Sweeney and Smith Solutions",Wholesaler,Narayanganj,BDT,Net 30
+82,Mueller Inc Solutions,Importer,Congo,CNY,LC at Sight
+83,"Morton, Davis and Knight Intl",Service Agency,Gazipur,BDT,Cheque upon Delivery
+84,Hooper and Sons Intl,Wholesaler,Narayanganj,BDT,Net 60
+85,Gross-Griffin Solutions,Importer,Luxembourg,CNY,LC at Sight
+86,Hart-Curtis Solutions,Service Agency,Chittagong,BDT,Net 60
+87,"Rodriguez, Johnson and Mcintyre Traders",Manufacturer,Dhaka,BDT,Cheque upon Delivery
+88,"Richardson, Ross and Cohen Intl",Manufacturer,Dhaka,BDT,Net 30
+89,Rodriguez-Wright Intl,Importer,Italy,CNY,LC at Sight
+90,Coleman-Martinez Solutions,Wholesaler,Gazipur,BDT,Net 60
+91,Chandler Group Solutions,Wholesaler,Narayanganj,BDT,Net 60
+92,Hudson-Fields Traders,Manufacturer,Gazipur,BDT,Cheque upon Delivery
+93,Soto PLC Solutions,Manufacturer,Chittagong,BDT,Cheque upon Delivery
+94,"Le, Johnson and Case Traders",Manufacturer,Gazipur,BDT,Net 30
+95,Benson-Harris Traders,Corporate Supplier,Chittagong,BDT,Cheque upon Delivery
+96,"Turner, Acosta and Richardson Ltd",Manufacturer,Dhaka,BDT,Net 30
+97,"Andersen, Hall and Mora Intl",Importer,Vietnam,USD,LC at Sight
+98,Hull-Smith Traders,Importer,Costa Rica,USD,LC at Sight
+99,Elliott and Sons Traders,Manufacturer,Chittagong,BDT,Net 30
+100,Anderson PLC Solutions,Importer,Greenland,USD,LC at Sight
+101,"Parker, Mitchell and Clark Traders",Manufacturer,Gazipur,BDT,Net 60
+102,Dorsey-Carpenter Intl,Manufacturer,Chittagong,BDT,Cheque upon Delivery
+103,"Bowman, Guerrero and Alexander Intl",Importer,Somalia,USD,LC at Sight
+104,"Mooney, Shaw and Medina Solutions",Manufacturer,Gazipur,BDT,Cheque upon Delivery
+105,"Woods, Atkinson and Olson Ltd",Manufacturer,Gazipur,BDT,Cheque upon Delivery
+106,Lam Inc Intl,Importer,Pakistan,USD,LC at Sight
+107,Oconnor Inc Traders,Importer,Romania,USD,LC at Sight
+108,"Edwards, Gutierrez and Long Traders",Importer,Ethiopia,CNY,LC at Sight
+109,Jarvis Ltd Intl,Manufacturer,Gazipur,BDT,Net 60
+110,"Martinez, Jordan and Mooney Traders",Manufacturer,Chittagong,BDT,Cheque upon Delivery
+111,Potter and Sons Solutions,Manufacturer,Dhaka,BDT,Cheque upon Delivery
+112,"Smith, Moore and Shelton Solutions",Wholesaler,Gazipur,BDT,Net 30
+113,Hughes LLC Ltd,Manufacturer,Narayanganj,BDT,Net 60
+114,Burton-Stewart Traders,Manufacturer,Narayanganj,BDT,Net 30
+115,Sanchez-Burke Traders,Importer,Armenia,USD,LC at Sight
+116,Johnson-Lambert Intl,Corporate Supplier,Chittagong,BDT,Net 30
+117,Taylor-Saunders Traders,Manufacturer,Dhaka,BDT,Net 30
+118,Shields-Flowers Traders,Service Agency,Dhaka,BDT,Net 60
+119,Hogan-Anderson Intl,Manufacturer,Dhaka,BDT,Net 60
+120,Holt-Owens Ltd,Manufacturer,Dhaka,BDT,Cheque upon Delivery
+121,Ortiz Group Traders,Importer,Heard Island and McDonald Islands,USD,LC at Sight
+122,Jensen LLC Intl,Manufacturer,Gazipur,BDT,Net 60
+123,Wilcox-Larson Ltd,Importer,Liechtenstein,USD,LC at Sight
+124,Flores-Davis Intl,Importer,Turkmenistan,USD,LC at Sight
+125,Ferguson Ltd Ltd,Manufacturer,Gazipur,BDT,Net 30
+126,"Shah, Martinez and Hughes Solutions",Service Agency,Dhaka,BDT,Cheque upon Delivery
+127,Brown-Hopkins Solutions,Manufacturer,Dhaka,BDT,Net 60
+128,Rogers PLC Intl,Importer,Afghanistan,USD,LC at Sight
+129,"Medina, Hill and Austin Traders",Importer,Egypt,USD,LC at Sight
+130,"Collins, Edwards and Smith Ltd",Manufacturer,Dhaka,BDT,Net 30
+131,Chapman Group Solutions,Manufacturer,Narayanganj,BDT,Net 60
+132,Young-Garcia Traders,Importer,Norway,USD,LC at Sight
+133,"Roberts, Brown and Anderson Ltd",Wholesaler,Dhaka,BDT,Net 60
+134,"Gonzalez, Adams and Farrell Traders",Service Agency,Narayanganj,BDT,Cheque upon Delivery
+135,Williams-Zuniga Intl,Importer,Vanuatu,USD,LC at Sight
+136,Mcguire and Sons Ltd,Manufacturer,Chittagong,BDT,Net 60
+137,Stokes and Sons Solutions,Importer,Rwanda,USD,LC at Sight
+138,Thomas Group Ltd,Importer,Angola,CNY,LC at Sight
+139,Johnson-Blevins Intl,Importer,Mozambique,USD,LC at Sight
+140,"Black, Vasquez and Garcia Traders",Importer,Peru,CNY,LC at Sight
+141,Figueroa Inc Solutions,Importer,San Marino,USD,LC at Sight
+142,Roman LLC Solutions,Wholesaler,Gazipur,BDT,Cheque upon Delivery
+143,Peterson-Lewis Ltd,Importer,Bulgaria,USD,LC at Sight
+144,"Rivera, Jones and Martin Intl",Importer,Congo,USD,LC at Sight
+145,Galvan-Jackson Ltd,Wholesaler,Chittagong,BDT,Net 60
+146,"Anderson, Johnson and Thomas Solutions",Service Agency,Dhaka,BDT,Net 30
+147,Taylor-Sutton Intl,Corporate Supplier,Dhaka,BDT,Cheque upon Delivery
+148,"Navarro, King and Holt Traders",Manufacturer,Dhaka,BDT,Net 30
+149,"Smith, Cunningham and Dawson Intl",Importer,French Guiana,CNY,LC at Sight
+150,"Harris, Garcia and Morse Ltd",Service Agency,Gazipur,BDT,Net 60

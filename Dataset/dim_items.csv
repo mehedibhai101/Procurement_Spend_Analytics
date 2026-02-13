@@ -1,0 +1,601 @@
+item_id,item_name,category,item_type,uom,accounting_group
+1,Industrial Packing Tape - Industrial Grade,Packaging Material,Consumable,Roll,Opex-Logistics
+2,Industrial Bubble Wrap - Padded,Packaging Material,Consumable,Roll,Opex-Logistics
+3,"Industrial Corrugated Box - 12x12x12""",Packaging Material,Consumable,Roll,Opex-Logistics
+4,Coca-Cola Sprite Bottle (500g),Groceries,Stock,Kg,Inventory
+5,PPC Management - Q3,Marketing Svc,Service,Month,Opex-Marketing
+6,Video Production - Q3,Marketing Svc,Service,Month,Opex-Marketing
+7,"Industrial Poly Mailer - 12x12x12""",Packaging Material,Consumable,Roll,Opex-Logistics
+8,Calvin Klein Polo T-Shirt - Charcoal [34],Men Fashion,Stock,Pcs,Inventory
+9,Ralph Lauren Chino Trousers - Charcoal [M],Men Fashion,Stock,Pcs,Inventory
+10,Lenovo IdeaPad 5 - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+11,LG 27UK850 (Curved),IT Equipment,Asset,Pcs,Capex-IT
+12,Asus ROG Zephyrus - i7/16GB/512GB,IT Equipment,Asset,Pcs,Capex-IT
+13,Adidas Chino Trousers - Olive [M],Men Fashion,Stock,Pcs,Inventory
+14,Social Media Retainer - Q3,Marketing Svc,Service,Month,Opex-Marketing
+15,Nestle KitKat Box (500g),Groceries,Stock,Kg,Inventory
+16,Logitech Wireless Mouse - White,IT Equipment,Asset,Pcs,Capex-IT
+17,Pilot Stapler Heavy Duty - Single,Office Supplies,Consumable,Box,Opex-Admin
+18,Industrial Poly Mailer - Industrial Grade,Packaging Material,Consumable,Roll,Opex-Logistics
+19,PPC Management - Q1,Marketing Svc,Service,Month,Opex-Marketing
+20,3M Whiteboard Markers - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+21,Microsoft Webcam - Bluetooth,IT Equipment,Asset,Pcs,Capex-IT
+22,Microsoft Surface Book 3 - M2 Chip/8GB,IT Equipment,Asset,Pcs,Capex-IT
+23,Samsung Galaxy S23 Ultra 128GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+24,"Industrial Stretch Film - 12x12x12""",Packaging Material,Consumable,Roll,Opex-Logistics
+25,DailyFresh Cheddar Cheese (Pack of 12),Groceries,Stock,Kg,Inventory
+26,Dell XPS 15 - 8GB/256GB,IT Equipment,Asset,Pcs,Capex-IT
+27,PPC Management - Q2,Marketing Svc,Service,Month,Opex-Marketing
+28,OnePlus Nord CE 3 256GB (Green),Mobile Phones,Stock,Pcs,Inventory
+29,Zara Hoodie - White [32],Men Fashion,Stock,Pcs,Inventory
+30,Uniqlo Slim Fit Shirt - Olive [32],Men Fashion,Stock,Pcs,Inventory
+31,Industrial Poly Mailer - Clear 2 inch,Packaging Material,Consumable,Roll,Opex-Logistics
+32,Dell Vostro 3510 - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+33,Zara Polo T-Shirt - White [L],Men Fashion,Stock,Pcs,Inventory
+34,PaperMate Ballpoint Pens (Blue) - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+35,Waste Disposal (Weekly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+36,Content Writing - Q2,Marketing Svc,Service,Month,Opex-Marketing
+37,Security Service (Daily),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+38,Dell UltraSharp U2720Q (144Hz IPS),IT Equipment,Asset,Pcs,Capex-IT
+39,Pest Control (Weekly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+40,Bic Copy Paper A4 - Single,Office Supplies,Consumable,Box,Opex-Admin
+41,Adidas Formal Blazer - Navy [M],Men Fashion,Stock,Pcs,Inventory
+42,Unilever Knorr Soup (5kg),Groceries,Stock,Kg,Inventory
+43,Apple iPhone 13 512GB (Green),Mobile Phones,Stock,Pcs,Inventory
+44,3M Copy Paper A4 - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+45,Asus Vivobook - 16GB/512GB SSD,IT Equipment,Asset,Pcs,Capex-IT
+46,Social Media Retainer - Q4,Marketing Svc,Service,Month,Opex-Marketing
+47,Corsair Wireless Mouse - Noise Cancelling,IT Equipment,Asset,Pcs,Capex-IT
+48,Google Pixel 7 256GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+49,HP Z27k G3 (Curved),IT Equipment,Asset,Pcs,Capex-IT
+50,Nestle Cerelac (Pack of 6),Groceries,Stock,Kg,Inventory
+51,Security Service (Monthly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+52,PPC Management - Monthly,Marketing Svc,Service,Month,Opex-Marketing
+53,Tommy Hilfiger Slim Fit Shirt - Blue [36],Men Fashion,Stock,Pcs,Inventory
+54,Ralph Lauren Denim Jeans - Blue [34],Men Fashion,Stock,Pcs,Inventory
+55,HVAC Maintenance (Weekly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+56,Nestle KitKat Box (5kg),Groceries,Stock,Kg,Inventory
+57,Logitech Headset - Bluetooth,IT Equipment,Asset,Pcs,Capex-IT
+58,Industrial Corrugated Box - Clear 2 inch,Packaging Material,Consumable,Roll,Opex-Logistics
+59,Ralph Lauren Polo T-Shirt - Grey [S],Men Fashion,Stock,Pcs,Inventory
+60,Coca-Cola Diet Coke Can (1L Bottle),Groceries,Stock,Kg,Inventory
+61,Security Service (Weekly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+62,Adidas Polo T-Shirt - Grey [36],Men Fashion,Stock,Pcs,Inventory
+63,Microsoft Wireless Mouse - White,IT Equipment,Asset,Pcs,Capex-IT
+64,Staples Stapler Heavy Duty - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+65,Staples Sticky Notes 3x3 - Single,Office Supplies,Consumable,Box,Opex-Admin
+66,Staples Copy Paper A4 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+67,SEO Audit - Q3,Marketing Svc,Service,Month,Opex-Marketing
+68,SEO Audit - Q1,Marketing Svc,Service,Month,Opex-Marketing
+69,Adidas Hoodie - Black [32],Men Fashion,Stock,Pcs,Inventory
+70,Levi's Slim Fit Shirt - White [S],Men Fashion,Stock,Pcs,Inventory
+71,Zara Chino Trousers - Blue [XL],Men Fashion,Stock,Pcs,Inventory
+72,Office Cleaning (Weekly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+73,Asus Vivobook - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+74,Asus ROG Zephyrus - i5/8GB/256GB,IT Equipment,Asset,Pcs,Capex-IT
+75,Logitech Webcam - Black,IT Equipment,Asset,Pcs,Capex-IT
+76,Pest Control (Monthly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+77,Apple MacBook Air M2 - 8GB/256GB,IT Equipment,Asset,Pcs,Capex-IT
+78,Samsung Odyssey G9 (1080p 60Hz),IT Equipment,Asset,Pcs,Capex-IT
+79,Samsung Galaxy S22 256GB (Green),Mobile Phones,Stock,Pcs,Inventory
+80,Samsung Galaxy A54 256GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+81,Kellogg's Oats (Pack of 12),Groceries,Stock,Kg,Inventory
+82,Uniqlo Crew Neck Sweater - Blue [L],Men Fashion,Stock,Pcs,Inventory
+83,Bic Stapler Heavy Duty - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+84,OnePlus 10T 128GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+85,Office Cleaning (Monthly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+86,Ralph Lauren Hoodie - Black [L],Men Fashion,Stock,Pcs,Inventory
+87,Levi's Formal Blazer - Olive [34],Men Fashion,Stock,Pcs,Inventory
+88,Industrial Bubble Wrap - Large Roll 500m,Packaging Material,Consumable,Roll,Opex-Logistics
+89,OnePlus 11 5G 256GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+90,Industrial Corrugated Box - Padded,Packaging Material,Consumable,Roll,Opex-Logistics
+91,Dell Vostro 3510 - M2 Chip/8GB,IT Equipment,Asset,Pcs,Capex-IT
+92,Zara Formal Blazer - White [34],Men Fashion,Stock,Pcs,Inventory
+93,Waste Disposal (Monthly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+94,Content Writing - Monthly,Marketing Svc,Service,Month,Opex-Marketing
+95,Video Production - Q2,Marketing Svc,Service,Month,Opex-Marketing
+96,HVAC Maintenance (Daily),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+97,Pest Control (Daily),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+98,PaperMate Sticky Notes 3x3 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+99,HVAC Maintenance (Monthly),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+100,Staples Stapler Heavy Duty - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+101,Waste Disposal (Daily),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+102,Samsung Galaxy Z Fold4 256GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+103,H&M Hoodie - Olive [M],Men Fashion,Stock,Pcs,Inventory
+104,Staples Ballpoint Pens (Blue) - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+105,Office Cleaning (Daily),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+106,PaperMate Copy Paper A4 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+107,Staples Whiteboard Markers - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+108,Samsung Galaxy A54 256GB (Green),Mobile Phones,Stock,Pcs,Inventory
+109,Microsoft Surface Book 3 - i7/16GB/512GB,IT Equipment,Asset,Pcs,Capex-IT
+110,Kellogg's Chocos (Pack of 6),Groceries,Stock,Kg,Inventory
+111,Unilever Hellmann's Mayo (5kg),Groceries,Stock,Kg,Inventory
+112,Microsoft Webcam - Ergonomic,IT Equipment,Asset,Pcs,Capex-IT
+113,Lenovo ThinkPad X1 - i7/16GB/512GB,IT Equipment,Asset,Pcs,Capex-IT
+114,Facility Mgmt Item 113 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+115,Dell Precision 5560 - M2 Chip/8GB,IT Equipment,Asset,Pcs,Capex-IT
+116,Social Media Retainer - Q2,Marketing Svc,Service,Month,Opex-Marketing
+117,Uniqlo Hoodie - Beige [S],Men Fashion,Stock,Pcs,Inventory
+118,PPC Management - Q4,Marketing Svc,Service,Month,Opex-Marketing
+119,H&M Chino Trousers - Black [34],Men Fashion,Stock,Pcs,Inventory
+120,Industrial Stretch Film - Large Roll 500m,Packaging Material,Consumable,Roll,Opex-Logistics
+121,PaperMate Sticky Notes 3x3 - Single,Office Supplies,Consumable,Box,Opex-Admin
+122,Nestle KitKat Box (Pack of 12),Groceries,Stock,Kg,Inventory
+123,LocalFarm Wheat Flour (Pack of 12),Groceries,Stock,Kg,Inventory
+124,Dell Vostro 3510 - 8GB/256GB,IT Equipment,Asset,Pcs,Capex-IT
+125,Kellogg's Corn Flakes (5kg),Groceries,Stock,Kg,Inventory
+126,Coca-Cola Sprite Bottle (Pack of 12),Groceries,Stock,Kg,Inventory
+127,Levi's Formal Blazer - Blue [M],Men Fashion,Stock,Pcs,Inventory
+128,Nestle Gold Coffee (1kg),Groceries,Stock,Kg,Inventory
+129,Ralph Lauren Denim Jeans - Olive [M],Men Fashion,Stock,Pcs,Inventory
+130,PaperMate Whiteboard Markers - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+131,Video Production - Q4,Marketing Svc,Service,Month,Opex-Marketing
+132,Facility Mgmt Item 131 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+133,Content Writing - Q1,Marketing Svc,Service,Month,Opex-Marketing
+134,Adidas Chino Trousers - Blue [L],Men Fashion,Stock,Pcs,Inventory
+135,Facility Mgmt Item 134 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+136,Facility Mgmt Item 135 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+137,PaperMate Stapler Heavy Duty - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+138,3M Ballpoint Pens (Blue) - Single,Office Supplies,Consumable,Box,Opex-Admin
+139,Facility Mgmt Item 138 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+140,Facility Mgmt Item 139 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+141,Apple iPhone 13 256GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+142,Facility Mgmt Item 141 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+143,Industrial Corrugated Box - Large Roll 500m,Packaging Material,Consumable,Roll,Opex-Logistics
+144,Bic Sticky Notes 3x3 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+145,PaperMate Stapler Heavy Duty - Single,Office Supplies,Consumable,Box,Opex-Admin
+146,Nike Formal Blazer - Navy [XL],Men Fashion,Stock,Pcs,Inventory
+147,H&M Polo T-Shirt - Olive [36],Men Fashion,Stock,Pcs,Inventory
+148,Facility Mgmt Item 147 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+149,Staples Copy Paper A4 - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+150,Lenovo Legion 7 - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+151,Calvin Klein Denim Jeans - Grey [M],Men Fashion,Stock,Pcs,Inventory
+152,Industrial Packing Tape - Large Roll 500m,Packaging Material,Consumable,Roll,Opex-Logistics
+153,OnePlus Nord CE 3 128GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+154,Logitech Wireless Mouse - RGB,IT Equipment,Asset,Pcs,Capex-IT
+155,Industrial Bubble Wrap - Industrial Grade,Packaging Material,Consumable,Roll,Opex-Logistics
+156,Video Production - Monthly,Marketing Svc,Service,Month,Opex-Marketing
+157,Microsoft Surface Laptop 5 - 8GB/256GB,IT Equipment,Asset,Pcs,Capex-IT
+158,OnePlus 11 5G 128GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+159,Samsung Galaxy S22 128GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+160,Unilever Lipton Green Tea (1L Bottle),Groceries,Stock,Kg,Inventory
+161,Facility Mgmt Item 160 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+162,PaperMate Sticky Notes 3x3 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+163,SEO Audit - Q2,Marketing Svc,Service,Month,Opex-Marketing
+164,Industrial Poly Mailer - Padded,Packaging Material,Consumable,Roll,Opex-Logistics
+165,Apple iPhone 14 Pro 256GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+166,Microsoft Surface Book 3 - 16GB/512GB SSD,IT Equipment,Asset,Pcs,Capex-IT
+167,Samsung Galaxy A54 256GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+168,"Industrial Bubble Wrap - 12x12x12""",Packaging Material,Consumable,Roll,Opex-Logistics
+169,3M Whiteboard Markers - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+170,Google Pixel 6a 512GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+171,Social Media Retainer - Monthly,Marketing Svc,Service,Month,Opex-Marketing
+172,Uniqlo Denim Jeans - Charcoal [S],Men Fashion,Stock,Pcs,Inventory
+173,Facility Mgmt Item 172 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+174,Microsoft Surface Book 3 - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+175,Apple iPhone 15 Plus 128GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+176,OnePlus 11 5G 128GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+177,Facility Mgmt Item 176 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+178,Coca-Cola Kinley Water (Pack of 6),Groceries,Stock,Kg,Inventory
+179,Apple iPhone 15 Plus 512GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+180,Video Production - Q1,Marketing Svc,Service,Month,Opex-Marketing
+181,Content Writing - Q4,Marketing Svc,Service,Month,Opex-Marketing
+182,LocalFarm Basmati Rice (1kg),Groceries,Stock,Kg,Inventory
+183,Content Writing - Q3,Marketing Svc,Service,Month,Opex-Marketing
+184,Facility Mgmt Item 183 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+185,Tommy Hilfiger Slim Fit Shirt - Grey [34],Men Fashion,Stock,Pcs,Inventory
+186,3M Ballpoint Pens (Blue) - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+187,Calvin Klein Hoodie - Charcoal [36],Men Fashion,Stock,Pcs,Inventory
+188,DailyFresh Butter Salted (5kg),Groceries,Stock,Kg,Inventory
+189,HP Z27k G3 (4K UHD),IT Equipment,Asset,Pcs,Capex-IT
+190,SEO Audit - Q4,Marketing Svc,Service,Month,Opex-Marketing
+191,3M Ballpoint Pens (Blue) - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+192,Uniqlo Crew Neck Sweater - White [36],Men Fashion,Stock,Pcs,Inventory
+193,Pilot Copy Paper A4 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+194,LocalFarm Sugar (5kg),Groceries,Stock,Kg,Inventory
+195,PaperMate Sticky Notes 3x3 - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+196,LocalFarm Sugar (1kg),Groceries,Stock,Kg,Inventory
+197,Uniqlo Hoodie - Navy [36],Men Fashion,Stock,Pcs,Inventory
+198,Apple iPhone 14 128GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+199,Facility Mgmt Item 198 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+200,Facility Mgmt Item 199 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+201,Apple iPhone 14 512GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+202,Coca-Cola Kinley Water (1L Bottle),Groceries,Stock,Kg,Inventory
+203,Nike Hoodie - Blue [XL],Men Fashion,Stock,Pcs,Inventory
+204,Facility Mgmt Item 203 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+205,Nike Crew Neck Sweater - Black [32],Men Fashion,Stock,Pcs,Inventory
+206,OnePlus 10T 512GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+207,3M Sticky Notes 3x3 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+208,Social Media Retainer - Q1,Marketing Svc,Service,Month,Opex-Marketing
+209,Facility Mgmt Item 208 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+210,LocalFarm Basmati Rice (5kg),Groceries,Stock,Kg,Inventory
+211,OnePlus 11 5G 512GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+212,Facility Mgmt Item 211 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+213,Industrial Packing Tape - Padded,Packaging Material,Consumable,Roll,Opex-Logistics
+214,Industrial Stretch Film - Padded,Packaging Material,Consumable,Roll,Opex-Logistics
+215,Google Pixel 7 Pro 256GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+216,Facility Mgmt Item 215 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+217,Ralph Lauren Hoodie - White [34],Men Fashion,Stock,Pcs,Inventory
+218,Pilot Ballpoint Pens (Blue) - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+219,Industrial Poly Mailer - Large Roll 500m,Packaging Material,Consumable,Roll,Opex-Logistics
+220,SEO Audit - Monthly,Marketing Svc,Service,Month,Opex-Marketing
+221,Marketing Svc Item 220 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+222,Samsung Galaxy A54 128GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+223,Bic Copy Paper A4 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+224,Industrial Stretch Film - Clear 2 inch,Packaging Material,Consumable,Roll,Opex-Logistics
+225,Marketing Svc Item 224 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+226,Ralph Lauren Polo T-Shirt - White [M],Men Fashion,Stock,Pcs,Inventory
+227,Unilever Lipton Green Tea (500g),Groceries,Stock,Kg,Inventory
+228,Industrial Packing Tape - Clear 2 inch,Packaging Material,Consumable,Roll,Opex-Logistics
+229,Bic Whiteboard Markers - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+230,HP Z27k G3 (144Hz IPS),IT Equipment,Asset,Pcs,Capex-IT
+231,Facility Mgmt Item 230 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+232,Levi's Polo T-Shirt - Charcoal [36],Men Fashion,Stock,Pcs,Inventory
+233,Facility Mgmt Item 232 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+234,Pilot Copy Paper A4 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+235,Google Pixel 7 Pro 128GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+236,Calvin Klein Hoodie - Navy [M],Men Fashion,Stock,Pcs,Inventory
+237,DailyFresh Butter Salted (Pack of 6),Groceries,Stock,Kg,Inventory
+238,H&M Denim Jeans - Beige [M],Men Fashion,Stock,Pcs,Inventory
+239,Kellogg's Corn Flakes (Pack of 6),Groceries,Stock,Kg,Inventory
+240,Nestle KitKat Box (1L Bottle),Groceries,Stock,Kg,Inventory
+241,Marketing Svc Item 240 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+242,DailyFresh Whole Milk (500g),Groceries,Stock,Kg,Inventory
+243,LocalFarm Mustard Oil (Pack of 6),Groceries,Stock,Kg,Inventory
+244,Google Pixel 7 Pro 128GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+245,Industrial Stretch Film - Industrial Grade,Packaging Material,Consumable,Roll,Opex-Logistics
+246,PaperMate Whiteboard Markers - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+247,Industrial Corrugated Box - Industrial Grade,Packaging Material,Consumable,Roll,Opex-Logistics
+248,Marketing Svc Item 247 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+249,Unilever Hellmann's Mayo (Pack of 6),Groceries,Stock,Kg,Inventory
+250,Pilot Whiteboard Markers - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+251,Unilever Knorr Soup (Pack of 6),Groceries,Stock,Kg,Inventory
+252,Marketing Svc Item 251 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+253,Pilot Whiteboard Markers - Single,Office Supplies,Consumable,Box,Opex-Admin
+254,LG 27UK850 (1080p 60Hz),IT Equipment,Asset,Pcs,Capex-IT
+255,Calvin Klein Formal Blazer - Beige [XL],Men Fashion,Stock,Pcs,Inventory
+256,"Industrial Packing Tape - 12x12x12""",Packaging Material,Consumable,Roll,Opex-Logistics
+257,Industrial Bubble Wrap - Clear 2 inch,Packaging Material,Consumable,Roll,Opex-Logistics
+258,Facility Mgmt Item 257 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+259,Zara Polo T-Shirt - Charcoal [M],Men Fashion,Stock,Pcs,Inventory
+260,Levi's Crew Neck Sweater - Black [XL],Men Fashion,Stock,Pcs,Inventory
+261,Packaging Material Item 260 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+262,Unilever Lipton Green Tea (5kg),Groceries,Stock,Kg,Inventory
+263,Facility Mgmt Item 262 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+264,Nike Chino Trousers - Charcoal [34],Men Fashion,Stock,Pcs,Inventory
+265,Tommy Hilfiger Formal Blazer - Grey [32],Men Fashion,Stock,Pcs,Inventory
+266,Packaging Material Item 265 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+267,Packaging Material Item 266 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+268,Bic Sticky Notes 3x3 - Single,Office Supplies,Consumable,Box,Opex-Admin
+269,Packaging Material Item 268 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+270,3M Sticky Notes 3x3 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+271,PaperMate Ballpoint Pens (Blue) - Single,Office Supplies,Consumable,Box,Opex-Admin
+272,Lenovo IdeaPad 5 - M2 Chip/8GB,IT Equipment,Asset,Pcs,Capex-IT
+273,Adidas Chino Trousers - Black [34],Men Fashion,Stock,Pcs,Inventory
+274,Marketing Svc Item 273 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+275,Samsung Galaxy A54 256GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+276,Facility Mgmt Item 275 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+277,Facility Mgmt Item 276 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+278,Bic Stapler Heavy Duty - Single,Office Supplies,Consumable,Box,Opex-Admin
+279,Marketing Svc Item 278 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+280,Staples Copy Paper A4 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+281,Marketing Svc Item 280 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+282,Microsoft Surface Laptop 5 - i5/8GB/256GB,IT Equipment,Asset,Pcs,Capex-IT
+283,Levi's Hoodie - Blue [34],Men Fashion,Stock,Pcs,Inventory
+284,Pilot Sticky Notes 3x3 - Single,Office Supplies,Consumable,Box,Opex-Admin
+285,Nestle Cerelac (500g),Groceries,Stock,Kg,Inventory
+286,PaperMate Copy Paper A4 - Single,Office Supplies,Consumable,Box,Opex-Admin
+287,Adidas Slim Fit Shirt - Olive [34],Men Fashion,Stock,Pcs,Inventory
+288,Facility Mgmt Item 287 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+289,Marketing Svc Item 288 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+290,Google Pixel 6a 128GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+291,Uniqlo Chino Trousers - Blue [32],Men Fashion,Stock,Pcs,Inventory
+292,Staples Whiteboard Markers - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+293,H&M Crew Neck Sweater - Beige [M],Men Fashion,Stock,Pcs,Inventory
+294,Facility Mgmt Item 293 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+295,Marketing Svc Item 294 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+296,Facility Mgmt Item 295 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+297,Packaging Material Item 296 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+298,Packaging Material Item 297 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+299,Packaging Material Item 298 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+300,Calvin Klein Formal Blazer - Grey [S],Men Fashion,Stock,Pcs,Inventory
+301,Calvin Klein Chino Trousers - Navy [XL],Men Fashion,Stock,Pcs,Inventory
+302,Facility Mgmt Item 301 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+303,Corsair Headset - White,IT Equipment,Asset,Pcs,Capex-IT
+304,Apple iPhone 14 512GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+305,"Apple MacBook Pro 16"" - i7/16GB/512GB",IT Equipment,Asset,Pcs,Capex-IT
+306,LocalFarm Wheat Flour (1L Bottle),Groceries,Stock,Kg,Inventory
+307,Staples Sticky Notes 3x3 - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+308,Uniqlo Chino Trousers - Beige [32],Men Fashion,Stock,Pcs,Inventory
+309,"Apple MacBook Pro 14"" - 8GB/256GB",IT Equipment,Asset,Pcs,Capex-IT
+310,Packaging Material Item 309 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+311,Uniqlo Slim Fit Shirt - Grey [34],Men Fashion,Stock,Pcs,Inventory
+312,Google Pixel 7 Pro 512GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+313,Marketing Svc Item 312 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+314,BenQ GW2480 (USB-C Hub),IT Equipment,Asset,Pcs,Capex-IT
+315,Bic Stapler Heavy Duty - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+316,Nike Hoodie - Charcoal [L],Men Fashion,Stock,Pcs,Inventory
+317,Nestle Gold Coffee (500g),Groceries,Stock,Kg,Inventory
+318,Adidas Slim Fit Shirt - Charcoal [S],Men Fashion,Stock,Pcs,Inventory
+319,Apple iPhone 15 Plus 256GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+320,Packaging Material Item 319 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+321,Microsoft Surface Laptop 5 - i7/16GB/512GB,IT Equipment,Asset,Pcs,Capex-IT
+322,Marketing Svc Item 321 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+323,3M Stapler Heavy Duty - Single,Office Supplies,Consumable,Box,Opex-Admin
+324,Zara Polo T-Shirt - Beige [S],Men Fashion,Stock,Pcs,Inventory
+325,BenQ GW2480 (4K UHD),IT Equipment,Asset,Pcs,Capex-IT
+326,Marketing Svc Item 325 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+327,Packaging Material Item 326 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+328,Packaging Material Item 327 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+329,Packaging Material Item 328 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+330,OnePlus 10T 512GB (Green),Mobile Phones,Stock,Pcs,Inventory
+331,Pilot Sticky Notes 3x3 - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+332,PaperMate Whiteboard Markers - Single,Office Supplies,Consumable,Box,Opex-Admin
+333,Marketing Svc Item 332 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+334,Samsung Odyssey G9 (USB-C Hub),IT Equipment,Asset,Pcs,Capex-IT
+335,Samsung Galaxy A54 256GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+336,Marketing Svc Item 335 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+337,Marketing Svc Item 336 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+338,Packaging Material Item 337 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+339,3M Stapler Heavy Duty - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+340,Coca-Cola Sprite Bottle (Pack of 6),Groceries,Stock,Kg,Inventory
+341,Packaging Material Item 340 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+342,Marketing Svc Item 341 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+343,3M Ballpoint Pens (Blue) - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+344,Packaging Material Item 343 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+345,OnePlus 10T 128GB (Green),Mobile Phones,Stock,Pcs,Inventory
+346,Dell UltraSharp U2720Q (USB-C Hub),IT Equipment,Asset,Pcs,Capex-IT
+347,Facility Mgmt Item 346 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+348,Facility Mgmt Item 347 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+349,Microsoft Mechanical Keyboard - White,IT Equipment,Asset,Pcs,Capex-IT
+350,Packaging Material Item 349 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+351,Facility Mgmt Item 350 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+352,LocalFarm Mustard Oil (500g),Groceries,Stock,Kg,Inventory
+353,Packaging Material Item 352 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+354,Samsung Galaxy A54 512GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+355,Marketing Svc Item 354 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+356,Facility Mgmt Item 355 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+357,Levi's Denim Jeans - Beige [XL],Men Fashion,Stock,Pcs,Inventory
+358,Marketing Svc Item 357 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+359,Ralph Lauren Polo T-Shirt - Charcoal [34],Men Fashion,Stock,Pcs,Inventory
+360,Microsoft Wireless Mouse - Black,IT Equipment,Asset,Pcs,Capex-IT
+361,Marketing Svc Item 360 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+362,Packaging Material Item 361 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+363,LocalFarm Mustard Oil (5kg),Groceries,Stock,Kg,Inventory
+364,Marketing Svc Item 363 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+365,Packaging Material Item 364 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+366,Tommy Hilfiger Hoodie - White [L],Men Fashion,Stock,Pcs,Inventory
+367,Marketing Svc Item 366 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+368,Nestle Maggi Noodles (1kg),Groceries,Stock,Kg,Inventory
+369,Asus ZenBook Duo - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+370,Calvin Klein Crew Neck Sweater - Beige [34],Men Fashion,Stock,Pcs,Inventory
+371,Nestle Cerelac (Pack of 12),Groceries,Stock,Kg,Inventory
+372,Tommy Hilfiger Formal Blazer - Charcoal [XL],Men Fashion,Stock,Pcs,Inventory
+373,3M Copy Paper A4 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+374,Apple iPhone 13 512GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+375,Calvin Klein Polo T-Shirt - White [M],Men Fashion,Stock,Pcs,Inventory
+376,Facility Mgmt Item 375 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+377,OnePlus 10T 256GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+378,Marketing Svc Item 377 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+379,3M Copy Paper A4 - Single,Office Supplies,Consumable,Box,Opex-Admin
+380,Packaging Material Item 379 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+381,Marketing Svc Item 380 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+382,Packaging Material Item 381 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+383,HP ZBook Firefly - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+384,Packaging Material Item 383 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+385,Marketing Svc Item 384 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+386,Corsair Headset - Noise Cancelling,IT Equipment,Asset,Pcs,Capex-IT
+387,Facility Mgmt Item 386 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+388,Dell XPS 15 - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+389,Razer Webcam - RGB,IT Equipment,Asset,Pcs,Capex-IT
+390,BenQ GW2480 (Curved),IT Equipment,Asset,Pcs,Capex-IT
+391,LocalFarm Basmati Rice (Pack of 12),Groceries,Stock,Kg,Inventory
+392,Adidas Polo T-Shirt - Grey [34],Men Fashion,Stock,Pcs,Inventory
+393,LocalFarm Sugar (Pack of 6),Groceries,Stock,Kg,Inventory
+394,Facility Mgmt Item 393 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+395,Ralph Lauren Polo T-Shirt - Olive [34],Men Fashion,Stock,Pcs,Inventory
+396,Kellogg's Muesli Fruit & Nut (1kg),Groceries,Stock,Kg,Inventory
+397,3M Stapler Heavy Duty - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+398,3M Sticky Notes 3x3 - Single,Office Supplies,Consumable,Box,Opex-Admin
+399,OnePlus 10T 128GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+400,Levi's Polo T-Shirt - Navy [32],Men Fashion,Stock,Pcs,Inventory
+401,Marketing Svc Item 400 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+402,Marketing Svc Item 401 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+403,Logitech Headset - Ergonomic,IT Equipment,Asset,Pcs,Capex-IT
+404,Lenovo ThinkPad X1 - 32GB/1TB SSD,IT Equipment,Asset,Pcs,Capex-IT
+405,Marketing Svc Item 404 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+406,Apple iPhone 14 512GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+407,Unilever Hellmann's Mayo (500g),Groceries,Stock,Kg,Inventory
+408,Apple iPhone 14 Pro 512GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+409,Adidas Chino Trousers - Grey [32],Men Fashion,Stock,Pcs,Inventory
+410,Apple iPhone 13 512GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+411,Packaging Material Item 410 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+412,Marketing Svc Item 411 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+413,Tommy Hilfiger Crew Neck Sweater - Navy [S],Men Fashion,Stock,Pcs,Inventory
+414,Marketing Svc Item 413 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+415,Facility Mgmt Item 414 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+416,Kellogg's Chocos (500g),Groceries,Stock,Kg,Inventory
+417,Packaging Material Item 416 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+418,LocalFarm Basmati Rice (500g),Groceries,Stock,Kg,Inventory
+419,Nestle Cerelac (1L Bottle),Groceries,Stock,Kg,Inventory
+420,PaperMate Whiteboard Markers - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+421,Lenovo IdeaPad 5 - i7/16GB/512GB,IT Equipment,Asset,Pcs,Capex-IT
+422,Google Pixel 7 Pro 512GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+423,Marketing Svc Item 422 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+424,Google Pixel 7 512GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+425,Uniqlo Denim Jeans - White [S],Men Fashion,Stock,Pcs,Inventory
+426,HP ZBook Firefly - 16GB/512GB SSD,IT Equipment,Asset,Pcs,Capex-IT
+427,Marketing Svc Item 426 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+428,Packaging Material Item 427 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+429,Packaging Material Item 428 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+430,Marketing Svc Item 429 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+431,Pilot Ballpoint Pens (Blue) - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+432,Google Pixel 7 512GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+433,OnePlus 11 5G 256GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+434,Marketing Svc Item 433 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+435,Facility Mgmt Item 434 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+436,Microsoft Headset - RGB,IT Equipment,Asset,Pcs,Capex-IT
+437,Facility Mgmt Item 436 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+438,LocalFarm Mustard Oil (1kg),Groceries,Stock,Kg,Inventory
+439,Coca-Cola Diet Coke Can (1kg),Groceries,Stock,Kg,Inventory
+440,OnePlus 10T 256GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+441,Zara Crew Neck Sweater - Black [36],Men Fashion,Stock,Pcs,Inventory
+442,Samsung Galaxy A54 512GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+443,Marketing Svc Item 442 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+444,H&M Slim Fit Shirt - Beige [L],Men Fashion,Stock,Pcs,Inventory
+445,DailyFresh Almond Milk (Pack of 6),Groceries,Stock,Kg,Inventory
+446,Coca-Cola Sprite Bottle (1L Bottle),Groceries,Stock,Kg,Inventory
+447,Staples Ballpoint Pens (Blue) - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+448,Asus ZenBook Duo - i5/8GB/256GB,IT Equipment,Asset,Pcs,Capex-IT
+449,Kellogg's Chocos (1kg),Groceries,Stock,Kg,Inventory
+450,Coca-Cola Sprite Bottle (5kg),Groceries,Stock,Kg,Inventory
+451,Marketing Svc Item 450 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+452,Marketing Svc Item 451 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+453,Facility Mgmt Item 452 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+454,Facility Mgmt Item 453 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+455,Tommy Hilfiger Formal Blazer - Olive [34],Men Fashion,Stock,Pcs,Inventory
+456,Apple iPhone 13 256GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+457,Marketing Svc Item 456 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+458,Facility Mgmt Item 457 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+459,Packaging Material Item 458 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+460,Unilever Lipton Green Tea (Pack of 6),Groceries,Stock,Kg,Inventory
+461,Packaging Material Item 460 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+462,DailyFresh Butter Salted (1kg),Groceries,Stock,Kg,Inventory
+463,Facility Mgmt Item 462 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+464,Facility Mgmt Item 463 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+465,Facility Mgmt Item 464 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+466,Packaging Material Item 465 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+467,Facility Mgmt Item 466 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+468,Packaging Material Item 467 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+469,Ralph Lauren Denim Jeans - Navy [32],Men Fashion,Stock,Pcs,Inventory
+470,Packaging Material Item 469 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+471,Apple iPhone 14 Pro 128GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+472,Logitech Webcam - Bluetooth,IT Equipment,Asset,Pcs,Capex-IT
+473,Marketing Svc Item 472 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+474,Nestle Maggi Noodles (Pack of 12),Groceries,Stock,Kg,Inventory
+475,Marketing Svc Item 474 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+476,Zara Slim Fit Shirt - Blue [36],Men Fashion,Stock,Pcs,Inventory
+477,Staples Whiteboard Markers - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+478,Facility Mgmt Item 477 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+479,Packaging Material Item 478 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+480,OnePlus Nord CE 3 512GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+481,OnePlus Nord CE 3 512GB (Green),Mobile Phones,Stock,Pcs,Inventory
+482,Facility Mgmt Item 481 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+483,Uniqlo Formal Blazer - Beige [XL],Men Fashion,Stock,Pcs,Inventory
+484,Facility Mgmt Item 483 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+485,Marketing Svc Item 484 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+486,H&M Polo T-Shirt - White [XL],Men Fashion,Stock,Pcs,Inventory
+487,Marketing Svc Item 486 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+488,Razer Webcam - Black,IT Equipment,Asset,Pcs,Capex-IT
+489,Zara Formal Blazer - Olive [32],Men Fashion,Stock,Pcs,Inventory
+490,Samsung Galaxy A54 512GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+491,OnePlus Nord CE 3 256GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+492,Marketing Svc Item 491 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+493,Apple iPhone 14 Pro 256GB (Midnight),Mobile Phones,Stock,Pcs,Inventory
+494,Kellogg's Muesli Fruit & Nut (Pack of 12),Groceries,Stock,Kg,Inventory
+495,Packaging Material Item 494 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+496,Packaging Material Item 495 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+497,LG 27UK850 (4K UHD),IT Equipment,Asset,Pcs,Capex-IT
+498,Marketing Svc Item 497 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+499,Unilever Knorr Soup (Pack of 12),Groceries,Stock,Kg,Inventory
+500,Pilot Stapler Heavy Duty - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+501,Marketing Svc Item 500 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+502,Facility Mgmt Item 501 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+503,Marketing Svc Item 502 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+504,Bic Ballpoint Pens (Blue) - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+505,Adidas Crew Neck Sweater - Olive [36],Men Fashion,Stock,Pcs,Inventory
+506,Bic Copy Paper A4 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+507,Staples Copy Paper A4 - Single,Office Supplies,Consumable,Box,Opex-Admin
+508,Unilever Hellmann's Mayo (Pack of 12),Groceries,Stock,Kg,Inventory
+509,Kellogg's Chocos (5kg),Groceries,Stock,Kg,Inventory
+510,OnePlus 11 5G 128GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+511,Staples Stapler Heavy Duty - Single,Office Supplies,Consumable,Box,Opex-Admin
+512,Apple iPhone 15 Plus 128GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+513,Apple iPhone 15 Plus 128GB (Green),Mobile Phones,Stock,Pcs,Inventory
+514,Apple iPhone 14 128GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+515,Calvin Klein Slim Fit Shirt - Grey [M],Men Fashion,Stock,Pcs,Inventory
+516,Bic Whiteboard Markers - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+517,HP ZBook Firefly - i7/16GB/512GB,IT Equipment,Asset,Pcs,Capex-IT
+518,Marketing Svc Item 517 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+519,Kellogg's Muesli Fruit & Nut (500g),Groceries,Stock,Kg,Inventory
+520,Pilot Whiteboard Markers - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+521,Levi's Slim Fit Shirt - Charcoal [XL],Men Fashion,Stock,Pcs,Inventory
+522,Packaging Material Item 521 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+523,Marketing Svc Item 522 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+524,Google Pixel 6a 256GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+525,Dell Precision 5560 - i7/16GB/512GB,IT Equipment,Asset,Pcs,Capex-IT
+526,Packaging Material Item 525 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+527,Microsoft Mechanical Keyboard - Black,IT Equipment,Asset,Pcs,Capex-IT
+528,Corsair Webcam - Bluetooth,IT Equipment,Asset,Pcs,Capex-IT
+529,Facility Mgmt Item 528 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+530,H&M Hoodie - Grey [34],Men Fashion,Stock,Pcs,Inventory
+531,Marketing Svc Item 530 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+532,Marketing Svc Item 531 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+533,Asus ZenBook Duo - 16GB/512GB SSD,IT Equipment,Asset,Pcs,Capex-IT
+534,LocalFarm Wheat Flour (5kg),Groceries,Stock,Kg,Inventory
+535,DailyFresh Whole Milk (1kg),Groceries,Stock,Kg,Inventory
+536,Bic Sticky Notes 3x3 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+537,Facility Mgmt Item 536 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+538,Google Pixel 6a 256GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+539,Marketing Svc Item 538 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+540,Marketing Svc Item 539 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+541,Calvin Klein Slim Fit Shirt - Blue [L],Men Fashion,Stock,Pcs,Inventory
+542,LocalFarm Sugar (Pack of 12),Groceries,Stock,Kg,Inventory
+543,Adidas Slim Fit Shirt - White [XL],Men Fashion,Stock,Pcs,Inventory
+544,3M Stapler Heavy Duty - Box of 12,Office Supplies,Consumable,Box,Opex-Admin
+545,Facility Mgmt Item 544 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+546,Packaging Material Item 545 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+547,Coca-Cola Kinley Water (500g),Groceries,Stock,Kg,Inventory
+548,Nestle Gold Coffee (1L Bottle),Groceries,Stock,Kg,Inventory
+549,Marketing Svc Item 548 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+550,LocalFarm Wheat Flour (1kg),Groceries,Stock,Kg,Inventory
+551,Adidas Denim Jeans - Grey [34],Men Fashion,Stock,Pcs,Inventory
+552,Packaging Material Item 551 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+553,Levi's Hoodie - Black [34],Men Fashion,Stock,Pcs,Inventory
+554,Marketing Svc Item 553 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+555,Marketing Svc Item 554 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+556,Samsung Galaxy Z Fold4 128GB (Starlight),Mobile Phones,Stock,Pcs,Inventory
+557,Marketing Svc Item 556 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+558,Levi's Formal Blazer - Black [34],Men Fashion,Stock,Pcs,Inventory
+559,Facility Mgmt Item 558 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+560,Levi's Formal Blazer - Charcoal [36],Men Fashion,Stock,Pcs,Inventory
+561,Facility Mgmt Item 560 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+562,Coca-Cola Fanta Orange (Pack of 6),Groceries,Stock,Kg,Inventory
+563,Packaging Material Item 562 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+564,Acer Predator X34 (USB-C Hub),IT Equipment,Asset,Pcs,Capex-IT
+565,Google Pixel 7 512GB (Green),Mobile Phones,Stock,Pcs,Inventory
+566,Adidas Crew Neck Sweater - Olive [XL],Men Fashion,Stock,Pcs,Inventory
+567,Adidas Formal Blazer - Beige [M],Men Fashion,Stock,Pcs,Inventory
+568,Google Pixel 7 Pro 512GB (Green),Mobile Phones,Stock,Pcs,Inventory
+569,Nestle Gold Coffee (Pack of 12),Groceries,Stock,Kg,Inventory
+570,DailyFresh Cheddar Cheese (Pack of 6),Groceries,Stock,Kg,Inventory
+571,Dell Precision 5560 - 16GB/512GB SSD,IT Equipment,Asset,Pcs,Capex-IT
+572,Samsung Galaxy Z Fold4 128GB (Silver),Mobile Phones,Stock,Pcs,Inventory
+573,Facility Mgmt Item 572 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+574,Tommy Hilfiger Polo T-Shirt - Black [XL],Men Fashion,Stock,Pcs,Inventory
+575,Facility Mgmt Item 574 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+576,Bic Sticky Notes 3x3 - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+577,DailyFresh Cheddar Cheese (5kg),Groceries,Stock,Kg,Inventory
+578,Google Pixel 7 Pro 256GB (Green),Mobile Phones,Stock,Pcs,Inventory
+579,Tommy Hilfiger Polo T-Shirt - Charcoal [L],Men Fashion,Stock,Pcs,Inventory
+580,"Apple MacBook Pro 14"" - M2 Chip/8GB",IT Equipment,Asset,Pcs,Capex-IT
+581,Packaging Material Item 580 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+582,Apple iPhone 14 256GB (Green),Mobile Phones,Stock,Pcs,Inventory
+583,Coca-Cola Diet Coke Can (5kg),Groceries,Stock,Kg,Inventory
+584,Marketing Svc Item 583 (Standard),Marketing Svc,Service,Month,Opex-Marketing
+585,Samsung Odyssey G9 (4K UHD),IT Equipment,Asset,Pcs,Capex-IT
+586,Packaging Material Item 585 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+587,Packaging Material Item 586 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+588,Calvin Klein Slim Fit Shirt - Olive [XL],Men Fashion,Stock,Pcs,Inventory
+589,HP EliteDisplay E243 (Curved),IT Equipment,Asset,Pcs,Capex-IT
+590,3M Whiteboard Markers - Ream (500),Office Supplies,Consumable,Box,Opex-Admin
+591,Apple iPhone 13 512GB (Phantom Black),Mobile Phones,Stock,Pcs,Inventory
+592,Pilot Sticky Notes 3x3 - Pack of 5,Office Supplies,Consumable,Box,Opex-Admin
+593,Zara Denim Jeans - White [S],Men Fashion,Stock,Pcs,Inventory
+594,Packaging Material Item 593 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+595,Facility Mgmt Item 594 (Standard),Facility Mgmt,Service,AU (Activity Unit),Opex-Facility
+596,Razer Webcam - Bluetooth,IT Equipment,Asset,Pcs,Capex-IT
+597,Nike Polo T-Shirt - White [36],Men Fashion,Stock,Pcs,Inventory
+598,Zara Polo T-Shirt - Beige [XL],Men Fashion,Stock,Pcs,Inventory
+599,Packaging Material Item 598 (Standard),Packaging Material,Consumable,Roll,Opex-Logistics
+600,Samsung Odyssey G9 (Curved),IT Equipment,Asset,Pcs,Capex-IT
