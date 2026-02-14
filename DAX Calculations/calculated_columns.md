@@ -8,7 +8,7 @@ This documentation details the foundational calculated tables and columns requir
 
 Calculated tables in this model are used to facilitate advanced data visualizations, such as waterfall charts and financial reconciliation flows.
 
-**Cost Flow**: A specialized table designed to drive "Spend Bridge" visualizations, tracking the journey from budgeted baseline to net investment.
+* **Cost Flow**: A specialized table designed to drive "Spend Bridge" visualizations, tracking the journey from budgeted baseline to net investment.
 
   * **Formula**:
 
@@ -57,7 +57,7 @@ These columns enrich the fact tables by calculating variances, processing times,
 
 ## 🧠 Complex Column Logic Explained
 
-**vendor_rating (Dim_Vendors)**:
+* **vendor_rating (Dim_Vendors)**:
 Generates a 5-star score by weighting reliability (OTIF), quality (Pass Rate), and schedule consistency.
 
   ```dax
@@ -71,7 +71,7 @@ Generates a 5-star score by weighting reliability (OTIF), quality (Pass Rate), a
       ROUND(Weighted_Score * 5, 2)
   ```
 
-**Contracted_Amount (Fact_PO_Lines)**:
+* **Contracted_Amount (Fact_PO_Lines)**:
 A critical "Shadow Value" column that calculates what the spend *should* have been based on pre-negotiated contracts, allowing for variance detection.
 
   ```dax
@@ -87,7 +87,7 @@ A critical "Shadow Value" column that calculates what the spend *should* have be
       Contracted_Price * Fact_PO_Lines[quantity] * RELATED(Fact_PO_Header[exchange_rate])
   ```
 
-**Lead Time & Variance (Fact_GRN_Lines)**:
+* **Lead Time & Variance (Fact_GRN_Lines)**:
 Calculates the actual time from PO issuance to receipt and measures the deviation from contracted SLA days.
   
   ```dax
@@ -108,7 +108,7 @@ Calculates the actual time from PO issuance to receipt and measures the deviatio
       Fact_GRN_Lines[Lead Time] - _contracted
   ```
 
-**PO Cycle Time (Fact_PO_Header)**:
+* **PO Cycle Time (Fact_PO_Header)**:
 Measures the operational efficiency of the procurement department by tracking the gap between a user's request and the formal purchase order.
 
   ```dax
@@ -122,10 +122,10 @@ Measures the operational efficiency of the procurement department by tracking th
 
 **🧠 Explanation of Complex Logics**
 
-**Shadow Value Benchmarking**: The `Contracted_Amount` and `Purchase Price Variance` columns are the core of the cost-saving engine. By calculating a "theoretical" price at the line-item level (using contract rates) and comparing it to the actual PO price, the model can isolate exactly where negotiations failed or where prices fluctuated due to market volatility, even across different currencies.
+* **Shadow Value Benchmarking**: The `Contracted_Amount` and `Purchase Price Variance` columns are the core of the cost-saving engine. By calculating a "theoretical" price at the line-item level (using contract rates) and comparing it to the actual PO price, the model can isolate exactly where negotiations failed or where prices fluctuated due to market volatility, even across different currencies.
 
-**Multi-Fact Reconciliation**: Many columns, such as `Quantity Variance` and `Invoice Processing Time`, rely on `LOOKUPVALUE` across different fact tables (PR, PO, GRN, and Invoices). This ensures that the model can track a single item from its requisition stage through to payment, identifying bottlenecks (like slow invoice processing) or discrepancies (like short shipments) at every touchpoint.
+* **Multi-Fact Reconciliation**: Many columns, such as `Quantity Variance` and `Invoice Processing Time`, rely on `LOOKUPVALUE` across different fact tables (PR, PO, GRN, and Invoices). This ensures that the model can track a single item from its requisition stage through to payment, identifying bottlenecks (like slow invoice processing) or discrepancies (like short shipments) at every touchpoint.
 
-**Consistency Normalization**: In the `vendor_rating` column, lead time variance is normalized. Because a 15-day delay is considered a total failure in this model, the consistency variable is capped at 0. This prevents extreme outliers from skewing the weighted score into negative values, keeping the 0-5 star rating mathematically sound.
+* **Consistency Normalization**: In the `vendor_rating` column, lead time variance is normalized. Because a 15-day delay is considered a total failure in this model, the consistency variable is capped at 0. This prevents extreme outliers from skewing the weighted score into negative values, keeping the 0-5 star rating mathematically sound.
 
-**Currency Synchronization**: Since procurement often happens in multiple currencies, all financial columns (PO Value, Line Amount, Invoiced Amount) are normalized to BDT using the `exchange_rate` found in the `Fact_PO_Header`. This allows the department to see a consolidated global spend figure without the noise of fluctuating exchange rates affecting the totals.
+* **Currency Synchronization**: Since procurement often happens in multiple currencies, all financial columns (PO Value, Line Amount, Invoiced Amount) are normalized to BDT using the `exchange_rate` found in the `Fact_PO_Header`. This allows the department to see a consolidated global spend figure without the noise of fluctuating exchange rates affecting the totals.
