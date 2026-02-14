@@ -101,7 +101,7 @@ Based on the analysis, the following strategic pillars are recommended for the u
 ## 📂 Repository Structure
 
 ```
-Advanced_End-to-End_Retial_Analytics/
+Procurement_Spend_Analytics/
 │
 ├── Dashboard/                            # Final visualization and reporting outputs
 │   ├── assets/                           # Visual elements used in reports (logos, icons, etc.)
